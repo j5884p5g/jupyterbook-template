@@ -1,4 +1,5 @@
 # Welcome to {{hackweek}}!
+<!-- trigger -->
 
 ![banner](img/banner.png)
 
